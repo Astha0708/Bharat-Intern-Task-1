@@ -1,0 +1,62 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.ops{
+    display: flex;
+    align-items: last baseline;
+     color:azure ;
+     padding-right: 35px;
+     padding-bottom: 7px;
+}
+p{
+    padding-right: 30px;
+}
+body{
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2015/09/19/portfolio-background.png);
+    background-size: cover;
+}
+.resume{
+    height: 90vh;
+    width: 45vw;
+    padding-top: 120px;
+}
+.about{
+    width: 40vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
+.photo{
+    height: 300px;
+    width: 300px;
+    border: 10px green solid;
+    border-radius: 50%;
+    background-image: url(Astha_img.jpg);
+    background-size: cover;
+}
+main{
+    display: flex;
+}
+.space{
+    width: 15vw;
+    height: 90vh;
+}
+.contact{
+    color: blue;
+    display: flex;
+}
+.fa-brands{
+    font-size: 30px;
+}
+i{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid blue;
+    background-color: white;
+    }
